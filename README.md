@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mohammad Akber Hossain</h1>
 
 # 💫 About Me:
-I am a student at Chattogram Cantonment Public College, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a student at Chattogram Cantonment Public College, passionate about exploring the realms of Coding, Machine Learning, Data Science and building robust applications.
 
 ## 🚀 What I'm Up To
 
@@ -12,7 +12,7 @@ I am a student at Chattogram Cantonment Public College, passionate about explori
 
 ## 🎓 About Me
 
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
+I'm also create contents, sharing my coding passion, and any advice on:
 
 - [LinkedIn](https://www.linkedin.com/in/akber2004/)
 
